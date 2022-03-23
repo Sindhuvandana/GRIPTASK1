@@ -23,3 +23,5 @@ Home > View Customer > Select One Customer > Transfer Money > Select Receiver > 
 
 Below are the screenshots of the website!
 
+
+![Screenshot 2022-03-23 at 4 33 46 PM](https://user-images.githubusercontent.com/88900558/159726402-089b57a8-632b-42d6-9da8-a699ede74d86.png)
