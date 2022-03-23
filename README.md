@@ -23,4 +23,3 @@ Home > View Customer > Select One Customer > Transfer Money > Select Receiver > 
 
 Below are the screenshots of the website!
 
-
